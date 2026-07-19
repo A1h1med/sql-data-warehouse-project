@@ -47,4 +47,11 @@ data-warehouse-project/
 - Sales peaked in 2013 and declined in 2014.
 - The United States generated the highest number of orders.
 
+## Credits
+This project was inspired in part by the following tutorial:
+**Data with Baraa** 
+The tutorial provided valuable guidance on data warehousing concepts and implementation approaches. While some ideas and workflows were inspired by the tutorial, the project was independently implemented, documented, and extended as part of my learning journey.
+
+
+
 
