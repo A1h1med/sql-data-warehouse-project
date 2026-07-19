@@ -49,6 +49,7 @@ data-warehouse-project/
 
 ## Credits
 -This project was inspired in part by the **Data with Baraa** tutorial, particularly the Data Warehouse (ETL and modeling) implementation.
+
 -The tutorial provided valuable guidance on data warehousing concepts and implementation approaches. While parts of the data warehouse architecture and ETL process were inspired by the tutorial, the **Power BI dashboard, visualizations, KPIs, insights, and reporting layer were designed and developed independently** as part of my learning journey.
 
 
