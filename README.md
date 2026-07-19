@@ -17,23 +17,27 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
   
 ## Repository Structure
 
+## 📂 Repository Structure
+
+```text
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_flow.png                   # Draw.io file for the data flow diagram
-│   ├── star schema.png                 # Draw.io file for data models (star schema)
-│   ├── integration model.png           # how tables are related to each other 
+│   ├── data_flow.png                   # Data flow diagram
+│   ├── star_schema.png                 # Star schema model
+│   ├── integration_model.png           # Table relationships
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
-│   ├── bronze/                         # Scripts for extracting and loading raw data
-│   ├── silver/                         # Scripts for cleaning and transforming data
-│   ├── gold/                           # Scripts for creating analytical models
+│   ├── bronze/                         # Raw data extraction and loading
+│   ├── silver/                         # Data cleansing and transformation
+│   ├── gold/                           # Analytical models and reporting views
 │
-├── tests/                              # Test scripts and quality files
+├── tests/                              # Data quality and validation scripts
 │
-├── README.md                           # Project overview and instructions
+└── README.md                           # Project overview and instructions
+```
 
 ## Projcet Preview
 <img width="2726" height="1497" alt="Sales Full journey" src="https://github.com/user-attachments/assets/c5f73745-94e2-4392-8771-0fb8bb1c4f39" />
