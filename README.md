@@ -16,6 +16,7 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 - SQL : for ETL process
   
 ##📂 Repository Structure
+
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
