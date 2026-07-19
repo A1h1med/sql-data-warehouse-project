@@ -15,7 +15,7 @@ Gold Layer: Houses business-ready data modeled into a star schema required for r
 - Power BI : for visualisation 
 - SQL : for ETL process
   
-##📂 Repository Structure
+## Repository Structure
 
 data-warehouse-project/
 │
